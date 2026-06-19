@@ -1,0 +1,21 @@
+[2.333s] Invoking command in '/home/luis/ros2_ws/src/camera_viewer': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/luis/ros2_ws/build/camera_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luis/ros2_ws/install/camera_viewer/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_viewer build --build-base /home/luis/ros2_ws/build/camera_viewer/build install --record /home/luis/ros2_ws/build/camera_viewer/install.log --single-version-externally-managed install_data
+[2.899s] running egg_info
+[2.942s] writing ../../build/camera_viewer/camera_viewer.egg-info/PKG-INFO
+[2.943s] writing dependency_links to ../../build/camera_viewer/camera_viewer.egg-info/dependency_links.txt
+[2.943s] writing entry points to ../../build/camera_viewer/camera_viewer.egg-info/entry_points.txt
+[2.943s] writing requirements to ../../build/camera_viewer/camera_viewer.egg-info/requires.txt
+[2.944s] writing top-level names to ../../build/camera_viewer/camera_viewer.egg-info/top_level.txt
+[3.030s] reading manifest file '../../build/camera_viewer/camera_viewer.egg-info/SOURCES.txt'
+[3.032s] writing manifest file '../../build/camera_viewer/camera_viewer.egg-info/SOURCES.txt'
+[3.033s] running build
+[3.033s] running build_py
+[3.033s] running install
+[3.050s] running install_lib
+[3.093s] running install_data
+[3.093s] running install_egg_info
+[3.138s] removing '/home/luis/ros2_ws/install/camera_viewer/lib/python3.12/site-packages/camera_viewer-0.0.0-py3.12.egg-info' (and everything under it)
+[3.138s] Copying ../../build/camera_viewer/camera_viewer.egg-info to /home/luis/ros2_ws/install/camera_viewer/lib/python3.12/site-packages/camera_viewer-0.0.0-py3.12.egg-info
+[3.141s] running install_scripts
+[3.402s] Installing image_viewer script to /home/luis/ros2_ws/install/camera_viewer/lib/camera_viewer
+[3.541s] writing list of installed files to '/home/luis/ros2_ws/build/camera_viewer/install.log'
+[3.722s] Invoked command in '/home/luis/ros2_ws/src/camera_viewer' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/luis/ros2_ws/build/camera_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/luis/ros2_ws/install/camera_viewer/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_viewer build --build-base /home/luis/ros2_ws/build/camera_viewer/build install --record /home/luis/ros2_ws/build/camera_viewer/install.log --single-version-externally-managed install_data
